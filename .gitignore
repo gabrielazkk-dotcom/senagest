@@ -1,0 +1,34 @@
+# Dependências
+/node_modules/
+node_modules-*
+/.pnp
+.pnp.js
+
+# Builds e caches
+/.next/
+/out/
+/build/
+/dist/
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*
+!.env.example
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Artefatos gerados pelo Serwist
+/public/sw*
+/public/swe-worker*
+
+# Arquivos locais e gerados
+/backups/
+/package-lock.corrupt.json
+/supabase/.temp/
+*.tsbuildinfo
+/.vscode/

@@ -1,0 +1,17 @@
+{
+  "name": "SenaGest — Gestão Técnica",
+  "short_name": "SenaGest",
+  "id": "/",
+  "description": "Operações, estoque e serviços técnicos em campo",
+  "start_url": "/dashboard",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050506",
+  "theme_color": "#b91c1c",
+  "orientation": "portrait-primary",
+  "categories": ["business", "productivity"],
+  "icons": [
+    { "src": "/icons/icon-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,6 @@
+"nome","categoria_id","marca","modelo","quantidade","estoque_minimo","unidade","observacoes","ativo"
+"Cabo de rede Cat6","","Marca Exemplo","CAT6-305","12","5","cx","Dados fictícios para demonstração","true"
+"Conector RJ45","","Marca Exemplo","RJ45","250","100","un","Dados fictícios para demonstração","true"
+"Fonte 12V 5A","","Marca Exemplo","FT-125","8","3","un","Dados fictícios para demonstração","true"
+"Parafuso 5 mm","","Marca Exemplo","PF-05","400","150","un","Dados fictícios para demonstração","true"
+"Fita isolante","","Marca Exemplo","FI-20","25","10","un","Dados fictícios para demonstração","true"
